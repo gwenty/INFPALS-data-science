@@ -4,9 +4,9 @@ Welcome to our workshop on data science using python!
 
 1. Have a look at the presentation or check out `Data_science.pdf`
 
-2. If you are working on your own machine you will need to install the libraries we will use and jupyter notebook. You can find instructions on this in the first part of `Installation_and_jupyter_notebook.pdf`
+2. If you are working on your own machine you will need to install the libraries we will use and jupyter notebook. You can find instructions on this in the first part of `installation-and-jupyter-notebook.pdf`
 
-3. In the second part of `Installation_and_jupyter_notebook.pdf` get familiar with using jupyter notebook.
+3. In the second part of `installation-and-jupyter-notebook.pdf` get familiar with using jupyter notebook.
 
 4. `infpals-data-science-act-1-numpy-matplotlib.pdf` will guide you through the basics of numpy and matplotlib. Feel free to play around a bit with the cool plots!
 
